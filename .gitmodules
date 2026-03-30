@@ -1,0 +1,18 @@
+[submodule "boost_assert"]
+	path = boost_assert
+	url = https://github.com/boostorg/assert.git
+[submodule "boost_compat"]
+	path = boost_compat
+	url = https://github.com/boostorg/assert.git
+[submodule "boost_core"]
+	path = boost_core
+	url = https://github.com/boostorg/assert.git
+[submodule "boost_describe"]
+	path = boost_describe
+	url = https://github.com/boostorg/assert.git
+[submodule "boost_json"]
+	path = boost_json
+	url = https://github.com/boostorg/assert.git
+[submodule "boost_variant2"]
+	path = boost_variant2
+	url = https://github.com/boostorg/assert.git
