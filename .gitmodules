@@ -34,3 +34,6 @@
 [submodule "boost/boost_variant2"]
 	path = boost/boost_variant2
 	url = https://github.com/boostorg/variant2.git
+[submodule "zash"]
+	path = zash
+	url = git@github.com:lenik/zash.git
