@@ -24,7 +24,6 @@ boost_json_vendored_dep = declare_dependency(
     link_with: boost_json_vendored_lib,
     dependencies: [
         boost_system_dep,
-        boost_locale_dep,
     ],
 )
 
